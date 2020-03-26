@@ -69,6 +69,7 @@
   <ItemGroup>
     <Content Include="Dashboard.aspx" />
     <Content Include="Default.aspx" />
+    <Content Include="images\logo.jpg" />
     <Content Include="ParticipantProfile.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
